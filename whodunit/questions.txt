@@ -1,0 +1,12 @@
+1.  BMP-related data types based on Microsoft's own.
+2.  they are the new name of int used in the image processing, and show that the number of bits required to save the data.
+3.  BYTE = 8 bits, DWORD = 32bit, LONG = 32bits, WORD = 16bits. 
+4.  TODO
+5.  bfSize show the size of the bitmap file while biSize show the size of bitmap info header size. 
+6.  image does not exist.
+7.  biBitCount
+8.  file does not exist.
+9.  we want to read one char at a time.
+10. 3
+11. fseek take the pointer to the specified place.
+12. SEEK_CUR is the pointer which points at the current location.
